@@ -15,7 +15,7 @@ Description:
   UMI (unique molecular identifier). This tool also can be used for pre-processing
   some amplicon data such as CRISPR gRNA screening, immune repertoire sequencing,
   and metagenome data.  
-License: MIT + file LICENSE
+License: Artistic-2.0
 Encoding: UTF-8
 Depends: R (>= 4.1.0)
 Imports: 
