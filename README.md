@@ -1,3 +1,5 @@
+<img src="./logo.png" width="200">
+
 # CellBarcode
 
 [![check](https://github.com/wenjie1991/CellBarcode/actions/workflows/r.yml/badge.svg)](https://github.com/wenjie1991/CellBarcode/actions)
