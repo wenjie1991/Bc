@@ -18,7 +18,7 @@ is_pure_dataframe <- function(obj) {
 #' The package CellBarcode performs Cellular DNA Barcode analysis. It can handle all kinds of DNA barcodes, as long as the barcode is within a single sequencing read and has a pattern that can be matched by a regular expression. \code{CellBarcode} can handle barcodes with flexible lengths, with or without UMI (unique molecular identifier). This tool also can be used for pre-processing some amplicon data such as CRISPR gRNA screening, immune repertoire sequencing, and metagenome data.
 #'
 #' @name CellBarcode
-#' @docType package
+#' @docType _PACKAGE
 #' @importFrom magrittr %>% %<>% extract extract2
 #' @importFrom data.table data.table rbindlist .N :=
 #' @importFrom Biostrings readDNAStringSet
