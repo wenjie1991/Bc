@@ -1,126 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/404.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/articles/Barcode_in_10X_scRNASeq.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/articles/UMI_VDJ_Barcode.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/index.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/news/index.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/BarcodeObj.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/CellBarcode.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_2df.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_auto_cutoff.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_barcodes.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_cleanBc.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_create_BarcodeObj.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_cure_cluster.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_cure_depth.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_cure_umi.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_extract.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_extract_sc_fastq.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_extract_sc_sam.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_messyBc.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_meta.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_names.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_obj.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_plot_count.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_plot_mutual.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_plot_pair.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_plot_single.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_seq_filter.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_seq_qc.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_splitVDJ.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_subset.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_summary_barcode.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/bc_summary_seqQc.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/format.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/parse_10x_sam.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/seq_correct.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/show.html</loc>
-  </url>
-  <url>
-    <loc>https://wenjie1991.github.io/CellBarcode/reference/subset.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://wenjie1991.github.io/CellBarcode/404.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/articles/Barcode_in_10X_scRNASeq.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/articles/UMI_VDJ_Barcode.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/articles/index.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/authors.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/index.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/news/index.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/BarcodeObj.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/CellBarcode.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_2df.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_auto_cutoff.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_barcodes.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_cleanBc.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_create_BarcodeObj.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_cure_cluster.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_cure_depth.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_cure_umi.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_extract.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_extract_sc_fastq.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_extract_sc_sam.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_messyBc.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_meta.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_names.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_obj.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_plot_count.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_plot_mutual.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_plot_pair.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_plot_single.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_seq_filter.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_seq_qc.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_splitVDJ.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_subset.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_summary_barcode.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/bc_summary_seqQc.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/format.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/index.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/parse_10x_sam.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/seq_correct.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/show.html</loc></url>
+<url><loc>https://wenjie1991.github.io/CellBarcode/reference/subset.html</loc></url>
 </urlset>
+
