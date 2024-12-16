@@ -1,5 +1,1 @@
-%.o: %.c
-	$(CC) $(ALL_CPPFLAGS) $(ALL_CFLAGS) -c $< -o $@
-%.o: %.cpp
-	$(CXX) $(ALL_CPPFLAGS) $(ALL_CXXFLAGS) -c $< -o $@
-
+PKG_LIBS = -lz
