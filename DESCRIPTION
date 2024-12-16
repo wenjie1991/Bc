@@ -34,7 +34,6 @@ Imports:
   utils, 
   S4Vectors,
   seqinr,
-  zlibbioc,
   Rsamtools
 LinkingTo: Rcpp, BH
 RoxygenNote: 7.3.2
