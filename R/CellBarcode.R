@@ -32,7 +32,6 @@ is_pure_dataframe <- function(obj) {
 #' @import methods
 #' @import Rcpp
 #' @import ggplot2
-#' @import zlibbioc
 #' @useDynLib CellBarcode
 NULL
 
